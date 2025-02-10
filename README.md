@@ -28,7 +28,7 @@
 ##
 
 # Sobre Mim 🙋‍♂️
-  Oi, tudo bem? Meu nome é Guilherme Araújo, tenho 18 anos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, depois de concluir meu ensino médio integrado com curso técnico em informática. Já tenho um pouco de contato com algumas linguagens, mas o meu principal objetivo é seguir na área, me aprofundando e explorarando cada vez mais esse mundo da tecnologia.  
+  Oi, tudo bem? Meu nome é Guilherme Araújo, tenho 18 anos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, depois de concluir meu ensino médio integrado com curso técnico em informática. Já tenho um pouco de contato com algumas linguagens, mas o meu principal objetivo é seguir na área, me aprofundando e explorando cada vez mais esse mundo da tecnologia.  
 
 ##
 
