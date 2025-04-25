@@ -21,7 +21,7 @@
 ##
 
  # Especificações 📚
-- 💻 Cursando Análise e Desenvolvimento de Sistemas | FAFIRE
+- 💻 Cursando Análise e Desenvolvimento de Sistemas | UNIFAFIRE
 - 👨‍💻 Concluído Técnico em Informática | SENAC
 - ✅ Cursos e Certificados
 
