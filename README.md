@@ -1,31 +1,56 @@
-## Opa!! Eu sou Guilherme Araújo 👊
 
-<a href="https://github.com/guiaraujoo/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=guiaraujoo&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/guiaraujoo/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guiaraujoo&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-</a>
+# 👋 Olá, me chamo Guilherme Araújo
+
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** — UNIFAFIRE  
+🎓 Técnico em Informática — SENAC  
+🚀 Dev. Backend.
+
+---
+
+## 🛠️ Techs
 
 
+### ⚙️ Backend
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Gui-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,python,nodejs,spring" />
+  </a>
+</p>
 
 ##
 
- # Especificações 📚
-- 💻 Cursando Análise e Desenvolvimento de Sistemas | UNIFAFIRE
-- 👨‍💻 Concluído Técnico em Informática | SENAC
-- ✅ Cursos e Certificados
+### 🎨 Frontend
+<div style="display: inline_block"><br>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,html,css,js,react,vite,tailwind" />
+  </a>
+</p>
 
 ##
+
+### 🗄️ Database
+<div style="display: inline_block"><br>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,mysql,redis" />
+  </a>
+</p>
+
+##
+
+### 🧰 Tools
+<div style="display: inline_block"><br>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,git,maven,netlify,notion,vercel,docker" />
+  </a>
+</p>
+
+##
+
+
 
 # Sobre Mim 🙋‍♂️
   Oi, tudo bem? Meu nome é Guilherme Araújo, tenho 18 anos. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, depois de concluir meu ensino médio integrado com curso técnico em informática. Já tenho um pouco de contato com algumas linguagens, mas o meu principal objetivo é seguir na área, me aprofundando e explorando cada vez mais esse mundo da tecnologia.  
